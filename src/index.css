@@ -166,7 +166,6 @@ td button svg {
 /* ESTILOS COMPONENTE CONTACTO */
 
 .contact{
-  height: 90vh;
   display: grid;
   place-items: center;
   && h1{
